@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="not_more">not more data</string>
+    <string name="load_more">load more</string>
+    <string name="action_settings">Setting</string>
+    <string name="load_erro">load erro</string>
+    <string name="sort_orde">Sort Order</string>
+    <string name="sort_orde_default">@string/popular</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string-array name="sort_order">
+        <item>@string/popular</item>
+        <item>@string/top_rated</item>
+    </string-array>
+</resources>
